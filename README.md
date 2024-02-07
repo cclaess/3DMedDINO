@@ -126,6 +126,6 @@ torchrun --nproc_per_node=4 main_lts_msd.py \
                             --output_dir /path/to/output
 ```
 
-## Citatation
+## Citation
 A bibtex entry will follow once the proceedings are published. Please cite the paper if you use this code in your own
 work.
