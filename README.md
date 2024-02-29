@@ -25,8 +25,8 @@ following figure displays a visual representation of the pre-training process as
 Clone the repository:
 
 ```bash
-git clone https://github.com/cclaess/MedAugDINO.git
-cd MedAugDINO
+git clone https://github.com/cclaess/3DMedDINO.git
+cd 3DMedDINO
 ```
 
 Install the requered packages:
